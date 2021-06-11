@@ -22,7 +22,7 @@ Por estar em duas graduações simultâneamente não sobra muito tempo pra devor
 ## Projetos:
 Aqui estão meus projetos em Data Science:
 
-* **Ligações para o 911 no condado de Montgomery:** http://bit.ly/911Proj
+* **Ligações para o 911 no condado de Montgomery:** https://bit.ly/3pI3VTJ
 
 <!-- * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
