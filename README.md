@@ -23,6 +23,7 @@ Por estar em duas graduações simultâneamente não sobra muito tempo pra devor
 Aqui estão meus projetos em Data Science:
 
 * **Ligações para o 911 no condado de Montgomery:** https://bit.ly/3pI3VTJ
+* **Previsão de preços de imóveis com Machine Learning:** https://bit.ly/3q3nohI
 
 <!-- * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
