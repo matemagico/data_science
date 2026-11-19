@@ -4,9 +4,7 @@
   <img src="images/new-banner.jpg" >
 </p>
 
-<sub>*Cientista de Dados Júnior* na minha casa</sub>
-
-**Analista de Dados Júnior | Graduado em Administração | Pós-graduado em Análise de Dados | Graduando em Sistemas de Informação**
+<sub>**Analista de Dados Júnior | Graduado em Administração | Pós-graduado em Análise de Dados | Graduando em Sistemas de Informação**</sub>
 
 Sou profissional com experiência no setor financeiro, atuando com análise cadastral e de clientes, verificação documental, prevenção a fraudes, automação de rotinas e criação de planilhas e dashboards para apoiar áreas de negócio e gestores.
 
