@@ -6,25 +6,25 @@
 
 <sub>*Cientista de Dados Júnior* na minha casa</sub>
 
-*Graduando em Sistemas de Informação e Administração de Empresas*
+**Analista de Dados Júnior | Graduado em Administração | Pós-graduado em Análise de Dados | Graduando em Sistemas de Informação**
 
-Desde sempre fui apaixonado por matemática e inovação, até comecei uma graduação em *Licenciatura em Matemática*, mas a parte da inovação ficou faltando. Decidi trocar de gradução e fui me aventurar pelos caminhos da Administração de Empresas (ouvindo o conselho dos meus pais) e para não perder tempo ingressei em Sistemas de Informação. 
-Cada vez mais ouvia comentários sobre dados e sua importância e passei a buscar sobre o assunto. Namorei essa área por uns 2 anos e em janeiro de 2021 criei coragem pra mergulhar nesse mar de dados que todos falam e todos os dias geramos mais e mais dados com nossos gadgets.
-Por estar em duas graduações simultâneamente não sobra muito tempo pra devorar muito conteúdo de Ciência de Dados, então vou estar publicando com mais frequência nos feriados e férias acadêmicas.
+Sou profissional com experiência no setor financeiro, atuando com análise cadastral e de clientes, verificação documental, prevenção a fraudes, automação de rotinas e criação de planilhas e dashboards para apoiar áreas de negócio e gestores.
+
+Tenho formação em Administração de Empresas, pós-graduação em Análise de Dados e graduação em andamento em Sistemas de Informação. Trabalho com Excel, VBA, Power BI, Power Automate, Python e SQL, buscando conectar análise de dados, visão de negócio e melhoria de processos.
+
+Neste repositório, compartilho projetos de análise exploratória, visualização de dados e modelagem preditiva, aplicando ferramentas como Python, pandas, matplotlib, seaborn e scikit-learn.
 
 
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/pedro-henrique-silva-de-abreu/)
-* [Medium](https://medium.com/@phsilvadeabreu)
-
 
 ## Projetos:
 Aqui estão meus projetos em Data Science:
 
-* **Ligações para o 911 no condado de Montgomery:** https://bit.ly/3pI3VTJ
-* **Previsão de preços de imóveis com Machine Learning:** https://bit.ly/3q3nohI
-* **Estratégia de Expansão de uma Loja de Roupas:** https://bit.ly/3x9g4ni
+* [Ligações para o 911 no condado de Montgomery](https://github.com/matemagico/data_science/blob/main/projetos/911_Project_-_Updated.ipynb)
+* [Previsão de preços de imóveis com Machine Learning](https://github.com/matemagico/data_science/blob/main/projetos/USA_Housing_-_Project.ipynb)
+* [Estratégia de Expansão de uma Loja de Roupas](https://github.com/matemagico/data_science/blob/main/projetos/Ecommerce_Customers_-_Project.ipynb)
 
 <!-- * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
